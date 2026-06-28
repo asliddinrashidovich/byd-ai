@@ -1,0 +1,6 @@
+{
+  "name": "BYD Auto Uzbekistan",
+  "description": "High-fidelity, premium interactive visual experience and clone of the BYD Auto Uzbekistan digital showroom, featuring a visual model catalog, interactive 3D-like car configurator, dynamic loan calculator, test drive scheduler, and dealership locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
